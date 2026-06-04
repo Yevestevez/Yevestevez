@@ -2,7 +2,7 @@
 
 **Full-stack developer** con background en diseño gráfico. React, Node, TypeScript.
 
-Llevo 10 años dedicado al diseño y ahora estoy haciendo la transición al desarrollo web. No solo construyo cosas que funcionan, sino que cuido que tengan buena pinta.
+Tras 10 años dedicado al diseño, estoy haciendo la transición al desarrollo web. No solo construyo cosas que funcionan, sino que cuido que tengan buena pinta.
 
 ---
 
@@ -43,10 +43,10 @@ Llevo 10 años dedicado al diseño y ahora estoy haciendo la transición al desa
 
 ### 🚀 Proyecto destacado
 
-**[Vegazetas](https://vegazetas.netlify.app)** — App de recetas vegetales y veganas full-stack
+**[Vegazetas](https://vegazetas.netlify.app)** — App de recetas veganas full-stack
 
-| Stack | Funcionalidades |
-|-------|----------------|
+| Stack                                              | Funcionalidades                                          |
+| -------------------------------------------------- | -------------------------------------------------------- |
 | React + Node.js + Express + MongoDB + Tailwind CSS | Registro/login, CRUD recetas, favoritos, API REST propia |
 
 [![GitHub](https://img.shields.io/badge/GitHub-ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yevestevez/vegazetas)
