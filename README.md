@@ -53,6 +53,21 @@ Tras 10 años dedicado al diseño, estoy haciendo la transición al desarrollo w
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yevestevez&show_icons=true&count_private=true&hide=stars&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yevestevez&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Yevestevez&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📄 Currículum
 
 Puedes descargar mi CV en PDF (actualizado a junio 2026):
