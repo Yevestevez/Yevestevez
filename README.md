@@ -64,7 +64,7 @@ Tras 10 años dedicado al diseño, estoy haciendo la transición al desarrollo w
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Yevestevez&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Yevestevez&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
